@@ -64,7 +64,7 @@ Testing on out-of-sample standardized log-returns confirms that modeling station
 - **Deep Learning:** `torch` (PyTorch)
 - **Financial Data:** `yfinance`
 
-## 🔥 Push this bottom to open Google Collab
+## 🔥 Push this bottom to open Google Colab
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/benedettalava/stock-market-forecasting-rnn-vecm/blob/main/price.ipynb)
 
