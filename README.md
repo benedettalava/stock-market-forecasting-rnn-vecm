@@ -1,7 +1,6 @@
 
 # Forecasting FTSE MIB Dynamics: Econometrics vs. Deep Learning
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/benedettalava/stock-market-forecasting-rnn-vecm/blob/main/price.ipynb)
 
 An empirical study evaluating short-term forecasting models for the Italian equity index (**FTSE MIB**), incorporating two exogenous global drivers: the **S&P 500** index and **Crude Oil (WTI)** prices.
 
@@ -65,4 +64,7 @@ Testing on out-of-sample standardized log-returns confirms that modeling station
 - **Deep Learning:** `torch` (PyTorch)
 - **Financial Data:** `yfinance`
 
+## 🔥 Push this bottom to open Google Collab
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/benedettalava/stock-market-forecasting-rnn-vecm/blob/main/price.ipynb)
 
