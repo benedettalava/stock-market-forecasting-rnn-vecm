@@ -1,7 +1,7 @@
 
 # Forecasting FTSE MIB Dynamics: Econometrics vs. Deep Learning
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/benedettalava/ftsemib-forecasting/main/price.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/benedettalava/stock-market-forecasting-rnn-vecm/blob/main/price.ipynb)
 
 An empirical study evaluating short-term forecasting models for the Italian equity index (**FTSE MIB**), incorporating two exogenous global drivers: the **S&P 500** index and **Crude Oil (WTI)** prices.
 
