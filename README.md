@@ -1,4 +1,7 @@
+
 # Forecasting FTSE MIB Dynamics: Econometrics vs. Deep Learning
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TUO-USERNAME/ftsemib-forecasting/blob/main/oil%20price.ipynb)
 
 An empirical study evaluating short-term forecasting models for the Italian equity index (**FTSE MIB**), incorporating two exogenous global drivers: the **S&P 500** index and **Crude Oil (WTI)** prices.
 
@@ -71,6 +74,6 @@ Testing on out-of-sample standardized log-returns confirms that modeling station
 Clone the repository and install required packages:
 
 ```bash
-git clone [https://github.com/your-username/ftsemib-forecasting.git](https://github.com/your-username/ftsemib-forecasting.git)
+git clone [https://github.com/TUO-USERNAME/ftsemib-forecasting.git](https://github.com/TUO-USERNAME/ftsemib-forecasting.git)
 cd ftsemib-forecasting
-pip install --upgrade statsmodels arch yfinance torch pandas numpy matplotlib scipy
+pip install -r requirements.txt
