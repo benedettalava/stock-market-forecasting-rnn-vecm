@@ -74,6 +74,6 @@ Testing on out-of-sample standardized log-returns confirms that modeling station
 Clone the repository and install required packages:
 
 ```bash
-git clone [https://github.com/TUO-USERNAME/ftsemib-forecasting.git](https://github.com/TUO-USERNAME/ftsemib-forecasting.git)
+git clone [https://github.com/TUO-USERNAME/ftsemib-forecasting.git](https://github.com/benedettalava/ftsemib-forecasting.git)
 cd ftsemib-forecasting
 pip install -r requirements.txt
