@@ -65,15 +65,4 @@ Testing on out-of-sample standardized log-returns confirms that modeling station
 - **Deep Learning:** `torch` (PyTorch)
 - **Financial Data:** `yfinance`
 
----
 
-## 🚀 Quick Start
-
-### 1. Installation
-
-Clone the repository and install required packages:
-
-```bash
-git clone [https://github.com/TUO-USERNAME/ftsemib-forecasting.git](https://github.com/benedettalava/ftsemib-forecasting.git)
-cd ftsemib-forecasting
-pip install -r requirements.txt
